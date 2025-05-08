@@ -1,2 +1,2 @@
-shekyan/slowhttptest:latest
+corentinth/it-tools:latest
 --platform=linux/arm64 xiaoyaliu/alist
