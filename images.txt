@@ -1,2 +1,2 @@
-lfkeitel/tacacs_plus:latest
+shekyan/slowhttptest:latest
 --platform=linux/arm64 xiaoyaliu/alist
