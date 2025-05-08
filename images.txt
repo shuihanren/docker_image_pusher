@@ -1,2 +1,2 @@
-tacacs
+lfkeitel/tacacs_plus:latest
 --platform=linux/arm64 xiaoyaliu/alist
