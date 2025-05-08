@@ -1,2 +1,2 @@
-ubuntu
+tacacs_plus
 --platform=linux/arm64 xiaoyaliu/alist
