@@ -1,2 +1,2 @@
-corentinth/it-tools:latest
+timescale/timescaledb:latest-pg14
 --platform=linux/arm64 xiaoyaliu/alist
