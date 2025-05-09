@@ -1,2 +1,2 @@
-talkincode/toughradius:latest
+timescale/timescaledb-ha:pg14-latest
 --platform=linux/arm64 xiaoyaliu/alist
