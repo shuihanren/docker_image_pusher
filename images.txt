@@ -1,2 +1,2 @@
-grafana/loki:2.7.1
+talkincode/toughradius:latest
 --platform=linux/arm64 xiaoyaliu/alist
