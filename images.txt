@@ -1,2 +1,2 @@
-timescale/timescaledb:latest-pg14
+grafana/loki:2.7.1
 --platform=linux/arm64 xiaoyaliu/alist
