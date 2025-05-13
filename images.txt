@@ -1,2 +1,2 @@
-timescale/timescaledb-ha:pg14-latest
+weldpua2008/net-snmp
 --platform=linux/arm64 xiaoyaliu/alist
